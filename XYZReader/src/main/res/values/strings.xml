@@ -1,0 +1,23 @@
+<resources>
+
+    <string name="app_name">XYZ Reader</string>
+    <string name="welcome_xyz_reader">Welcome to XYZ Reader!</string>
+
+    <string name="action_refresh">Refresh</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_share">Share</string>
+
+    <string name="up">Up</string>
+    <string name="by">%1$s by %2$s</string>
+    <string name="article_image">Article Image</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tool_bar_background_image">Tool bar background image</string>
+    <string name="xyzreader_logo">XyzReader logo</string>
+    <string name="data_loading_toast">Refreshing data, please wait…</string>
+    <string name="share_text">Check out an article called %1$s by %2$s online. It sounds like the cylon hybrid from Battlestar Galactica… So cool!</string>
+    <string name="send_to">Share via</string>
+    <string name="article_main_image_thumbnail">Article main image thumbnail</string>
+
+</resources>

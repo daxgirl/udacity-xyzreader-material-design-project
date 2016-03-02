@@ -1,0 +1,10 @@
+<resources>
+    <!-- detail -->
+    <!--<bool name="detail_is_card">true</bool>-->
+    <integer name="list_column_count">4</integer>
+    <dimen name="detail_card_max_width">20000dp</dimen>
+    <dimen name="main_toolbar_height">128dp</dimen>
+    <dimen name="detail_toolbar_height">256dp</dimen>
+
+
+</resources>

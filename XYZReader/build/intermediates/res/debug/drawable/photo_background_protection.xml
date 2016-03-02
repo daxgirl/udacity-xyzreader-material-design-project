@@ -1,0 +1,10 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <gradient
+        android:angle="-90"
+        android:startColor="#a000"
+        android:endColor="#0000"
+        android:type="linear"
+        />
+</shape>
+<!-- From: file:/C:/Users/Anna/AndroidStudioProjects/xyzreader/XYZReader/src/main/res/drawable/photo_background_protection.xml -->
