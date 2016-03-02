@@ -1,8 +1,0 @@
-<menu xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:app="http://schemas.android.com/apk/res-auto">
-    <item
-        android:id="@+id/refresh"
-        android:title="@string/action_refresh"
-        app:showAsAction="never"/>
-</menu>
-<!-- From: file:/C:/Users/Anna/AndroidStudioProjects/xyzreader/XYZReader/src/main/res/menu/main.xml -->

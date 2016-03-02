@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <!-- From: file:/C:/Users/Anna/AndroidStudioProjects/xyzreader/XYZReader/src/main/res/values-sw600dp-land/macro_layout.xml -->
-    <eat-comment/>
-    <dimen name="detail_card_max_width">20000dp</dimen>
-    <dimen name="detail_toolbar_height">256dp</dimen>
-    <dimen name="main_toolbar_height">128dp</dimen>
-    <integer name="list_column_count">4</integer>
-</resources>
