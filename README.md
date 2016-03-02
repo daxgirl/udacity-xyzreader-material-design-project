@@ -21,4 +21,5 @@ Android Studio has gone nuts and inspite of using "Clean Project" uploaded all t
 15. Added full rtl support (start/end) for all views with left/right attributes. 
 16. Added actual data to share action for plain text. 
 17. Removed assets folder and made use of roboto built in android font for all texts.
-18. Overall cleanup and performance boost where popssible.
+18. Tested opn all back compatible AVDs. Had to revert from support library 23.2.0 to 23.1.1 due to some problems on older devices with toolbar. The issue is documented and reverting resommended.
+19. Overall cleanup and performance boost where popssible.
